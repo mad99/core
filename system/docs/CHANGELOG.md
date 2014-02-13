@@ -1,6 +1,21 @@
 Contao Open Source CMS changelog
 ================================
 
+Version 3.2.7 (2014-02-13)
+--------------------------
+
+### Fixed
+Fix another weakness in the `Input` class and further harden the `deserialize()`
+function. Thanks to Martin Auswöger for his input.
+
+
+Version 3.2.6 (2014-02-12)
+--------------------------
+
+### Fixed
+Further harden the `deserialize()` function and the `Input` class (see #6724).
+
+
 Version 3.2.5 (2014-02-03)
 --------------------------
 
